@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import CounterType from "../smallComponents/CounterType";
+import CounterType from "../sharedComponents/CounterType";
 
 function Counter() {
   return (

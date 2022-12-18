@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import FoodCategory from "../smallComponents/FoodCategory";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
+import FoodCategory from "../sharedComponents/FoodCategory";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
 
 function OurMenu() {
   return (

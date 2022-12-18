@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "../Header/NavBar";
 import Container from "../MediaQuery/Container";
-import GlobalLink from "../smallComponents/GlobalLink";
+import GlobalLink from "../sharedComponents/GlobalLink";
 
 function Greeting({ greetingClassName }) {
   return (

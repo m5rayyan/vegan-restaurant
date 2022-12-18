@@ -1,9 +1,9 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import Calendar from "../smallComponents/Calendar";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
-import OccupancyDropdown from "../smallComponents/OccupancyDropdown";
-import TimeSlot from "../smallComponents/TimeSlot";
+// import Calendar from "../sharedComponents/Calendar";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
+import OccupancyDropdown from "../sharedComponents/OccupancyDropdown";
+// import TimeSlot from "../sharedComponents/TimeSlot";
 
 function Form() {
   return (

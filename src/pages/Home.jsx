@@ -1,13 +1,13 @@
 import React from "react";
-import Blogs from "../sections/Blogs";
-import Counter from "../sections/Counter";
-import Footer from "../sections/Footer";
-import GeneralSection from "../sections/GeneralSection";
-import Greeting from "../sections/Greeting";
-import JoinUs from "../sections/JoinUs";
-import OurMenu from "../sections/OurMenu";
-import Reviews from "../sections/Reviews";
-import Special from "../sections/Special";
+import Blogs from "../components/sections/Blogs";
+import Counter from "../components/sections/Counter";
+import Footer from "../components/sections/Footer";
+import GeneralSection from "../components/sections/GeneralSection";
+import Greeting from "../components/sections/Greeting";
+import JoinUs from "../components/sections/JoinUs";
+import OurMenu from "../components/sections/OurMenu";
+import Reviews from "../components/sections/Reviews";
+import Special from "../components/sections/Special";
 
 function Home() {
   return (

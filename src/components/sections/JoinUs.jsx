@@ -1,6 +1,6 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import GlobalLink from "../smallComponents/GlobalLink";
+import GlobalLink from "../sharedComponents/GlobalLink";
 
 function JoinUs({ joinUsTitle, flatOff }) {
   return (

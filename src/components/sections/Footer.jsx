@@ -1,10 +1,10 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import CopyRight from "../smallComponents/CopyRight";
-import FooterContact from "../smallComponents/FooterContact";
-import FooterLinks from "../smallComponents/FooterLinks";
-import FooterLogo from "../smallComponents/FooterLogo";
-import FooterSubscribe from "../smallComponents/FooterSubscribe";
+import CopyRight from "../sharedComponents/CopyRight";
+import FooterContact from "../sharedComponents/FooterContact";
+import FooterLinks from "../sharedComponents/FooterLinks";
+import FooterLogo from "../sharedComponents/FooterLogo";
+import FooterSubscribe from "../sharedComponents/FooterSubscribe";
 
 function Footer() {
   return (

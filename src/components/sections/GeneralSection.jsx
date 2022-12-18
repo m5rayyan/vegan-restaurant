@@ -1,8 +1,8 @@
 // This Component Used In (About Us) and (Cooking Ingredients) Sections
 import React from "react";
 import Container from "../MediaQuery/Container";
-import GlobalLink from "../smallComponents/GlobalLink";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
+import GlobalLink from "../sharedComponents/GlobalLink";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
 
 function GeneralSection({
   generalSectionTitle,

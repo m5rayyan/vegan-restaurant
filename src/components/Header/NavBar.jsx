@@ -1,7 +1,7 @@
 import React from "react";
-import Li from "../smallComponents/Li";
-import Logo from "../smallComponents/Logo";
-import UL from "../smallComponents/UL";
+import Li from "../sharedComponents/Li";
+import Logo from "../sharedComponents/Logo";
+import UL from "../sharedComponents/UL";
 
 const NavBar = () => {
   return (

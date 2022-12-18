@@ -668,7 +668,7 @@ span.day {
   left: 16%;
 }
 /* End Form Page  */
-/* Start smallComponents Folder  */
+/* Start sharedComponents Folder  */
 /* Start GlobalLink Component  */
 .global-link {
   width: fit-content;
@@ -749,7 +749,7 @@ span.day {
 }
 /* End FoodCategory Component */
 
-/* End smallComponents Folder  */
+/* End sharedComponents Folder  */
 
 /* Start MediaQuery  */
 .container {

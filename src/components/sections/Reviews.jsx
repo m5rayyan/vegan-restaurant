@@ -1,6 +1,6 @@
 import React from "react";
-import Swiper from "../smallComponents/Swiper";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
+import Swiper from "../sharedComponents/Swiper";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
 
 function Reviews() {
   return (

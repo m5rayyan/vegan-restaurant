@@ -1,6 +1,6 @@
 import React from "react";
-import BlogCard from "../smallComponents/BlogCard";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
+import BlogCard from "../sharedComponents/BlogCard";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
 
 function Blogs() {
   return (

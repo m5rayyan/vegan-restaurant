@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "../MediaQuery/Container";
-import GlobalTitleAndSubTitle from "../smallComponents/GlobalTitleAndSubTitle";
-import SpecialTypes from "../smallComponents/SpecialTypes";
+import GlobalTitleAndSubTitle from "../sharedComponents/GlobalTitleAndSubTitle";
+import SpecialTypes from "../sharedComponents/SpecialTypes";
 
 function Special() {
   return (
